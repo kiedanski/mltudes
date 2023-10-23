@@ -1,3 +1,4 @@
 diganselo-segmentation/walking.mp4 filter=lfs diff=lfs merge=lfs -text
 diganselo-segmentation/output.mp4 filter=lfs diff=lfs merge=lfs -text
 diganselo-segmentation/background.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
