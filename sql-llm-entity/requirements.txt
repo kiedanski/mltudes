@@ -1,0 +1,12 @@
+llama-index-llms-openai
+llama-index-llms-litellm
+litellm
+llama-index
+sqlalchemy
+langchain
+guardrails-ai==0.1.5
+pandas
+scikit-learn
+mlflow
+langkit[all]
+pyright
